@@ -17,7 +17,7 @@
           "file_name":"crew.lua",
           "url": "https://raw.githubusercontent.com/AvorionCommands/avorion-scripts/master/scripts/player/cmd/crew.lua",
           "relative_path": "data/scripts/player/cmd/"
-        },
+        }
       ]
     },
     "mod": {
@@ -37,7 +37,7 @@
   				"file_name":"price.lua",
   				"url": "https://raw.githubusercontent.com/AvorionCommands/avorion-scripts/master/scripts/player/cmd/price.lua",
   				"relative_path": "data/scripts/player/cmd/"
-  			},
+  			}
   		]
   	},
   	"mod": {
@@ -52,7 +52,7 @@
   				"file_name": "inventory.lua",
   				"url": "https://raw.githubusercontent.com/AvorionCommands/avorion-scripts/master/scripts/commands/inventory.lua",
   				"relative_path": "data/scripts/commands/"
-  			},
+  			}
   		]
   	},
   	"mod": {
@@ -72,7 +72,7 @@
   				"file_name":"sethome.lua",
   				"url": "https://raw.githubusercontent.com/AvorionCommands/avorion-scripts/master/scripts/player/cmd/sethome.lua",
   				"relative_path": "data/scripts/player/cmd/"
-  			},
+  			}
   		]
   	}
   },
@@ -93,7 +93,7 @@
         "file_name":"highlitePlayers.lua",
         "url": "https://raw.githubusercontent.com/FederationOfEngineers/HighlitePlayers/master/scripts/mods/player/highlitePlayers.lua",
         "relative_path": "data/scripts/player/cmd/"
-      },
+      }
     ]
   }
 }

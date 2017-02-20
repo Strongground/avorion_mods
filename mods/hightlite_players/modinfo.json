@@ -1,7 +1,8 @@
 {
   "name": "Hightlight players in sector",
   "author": "TheSilentOracle",
-  "tested_version": "1.0.1",
+  "version": "1.0.1",
+  "tested_version": "n/a",
   "url": "http://www.avorion.net/forum/index.php/topic,1286.0.html",
   "description": "This mod adds indicator arrows around your ship to show you when other players are in the same sector.",
   "files": [

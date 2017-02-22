@@ -1,0 +1,22 @@
+{
+  "mod": {
+    "name": "/disttocore - Command",
+    "author": "Salminar",
+    "version": "n/a",
+    "tested_version": "n/a",
+    "url": "http://www.avorion.net/forum/index.php/topic,1803.0.html",
+    "description": "Shows distance to the galactic core",
+    "files": [
+      {
+        "file_name":"disttocore.lua",
+        "url": "https://github.com/Salminar/Avorion/blob/scripts/scripts/commands/disttocore.lua",
+        "relative_path": "data/scripts/commands/"
+      },
+      {
+        "file_name":"disttocore.lua",
+        "url": "https://github.com/Salminar/Avorion/blob/scripts/scripts/player/cmd/disttocore.lua",
+        "relative_path": "data/scripts/player/cmd/"
+      }
+    ]
+  }
+}

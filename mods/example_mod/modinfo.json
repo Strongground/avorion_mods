@@ -1,0 +1,20 @@
+{
+  "name": "Example Mod",
+  "author": "ExampleAuthor",
+  "version": "1.0",
+  "tested_version": "0.10.2.7420",
+  "url": "http://www.avorion.net/forum/index.php/topic,1197.0.html",
+  "description": "This mod is just an example.",
+  "files": [
+    {
+      "file_name":"example-file.lua",
+      "url": "https://github.com/Salminar/Avorion/blob/scripts/scripts/commands/disttocore.lua",
+      "relative_path": "data/scripts/commands/"
+    },
+    {
+      "file_name":"another-file.lua",
+      "url": "https://github.com/Salminar/Avorion/blob/scripts/scripts/player/cmd/disttocore.lua",
+      "relative_path": "data/scripts/player/cmd/"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
-{
-  "mod": {
+[
+  {
     "name": "/crew - Command",
     "author": "Aki",
     "version": "n/a",
@@ -16,10 +16,10 @@
         "file_name":"crew.lua",
         "url": "https://raw.githubusercontent.com/AvorionCommands/avorion-scripts/master/scripts/player/cmd/crew.lua",
         "relative_path": "data/scripts/player/cmd/"
-      },
+      }
     ]
   },
-  "mod": {
+  {
     "name": "/price - Command",
     "author": "Aki",
     "version": "n/a",
@@ -36,10 +36,10 @@
         "file_name":"price.lua",
         "url": "https://raw.githubusercontent.com/AvorionCommands/avorion-scripts/master/scripts/player/cmd/price.lua",
         "relative_path": "data/scripts/player/cmd/"
-      },
+      }
     ]
   },
-  "mod": {
+  {
     "name": "/inventory - Command",
     "author": "Aki",
     "version": "n/a",
@@ -51,10 +51,10 @@
         "file_name": "inventory.lua",
         "url": "https://raw.githubusercontent.com/AvorionCommands/avorion-scripts/master/scripts/commands/inventory.lua",
         "relative_path": "data/scripts/commands/"
-      },
+      }
     ]
   },
-  "mod": {
+  {
     "name": "/sethome - Command",
     "author": "Aki",
     "version": "n/a",
@@ -71,7 +71,7 @@
         "file_name":"sethome.lua",
         "url": "https://raw.githubusercontent.com/AvorionCommands/avorion-scripts/master/scripts/player/cmd/sethome.lua",
         "relative_path": "data/scripts/player/cmd/"
-      },
+      }
     ]
   }
-}
+]
